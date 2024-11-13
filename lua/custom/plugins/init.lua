@@ -8,4 +8,9 @@ return {
   -- Dashboard
   require 'custom.plugins.alpha',
   -- tree
+  -- No se lo que hago pero ahi viene
+  require 'custom.plugins.cokeline',
+  'tpope/vim-dadbod',
+  'kristijanhusak/vim-dadbod-ui',
+  'kristijanhusak/vim-dadbod-completion',
 }
